@@ -1,0 +1,99 @@
+{
+    "background": {
+        "display": {
+            "blur": 0,
+            "luminosity": -0.2
+        },
+        "id": "VJaQk6kjEr07",
+        "key": "background/unsplash"
+    },
+    "data/U71Tl7CVKvXy": {
+        "name": "Samir"
+    },
+    "data/default-time": {
+        "hour12": true,
+        "mode": "digital",
+        "name": "",
+        "showDate": true,
+        "showDayPeriod": true,
+        "showMinutes": true,
+        "showSeconds": false,
+        "timeZone": "Asia/Kathmandu"
+    },
+    "data/o-4_slmiEHeH": {
+        "latitude": 28.0675,
+        "longitude": 83.2463,
+        "name": "Tamghas",
+        "showDetails": false,
+        "units": "si"
+    },
+    "data/szEEcyesJHRf": {
+        "columns": 1,
+        "linkOpenStyle": false,
+        "links": [
+            {
+                "icon": "_favicon",
+                "name": "",
+                "url": "https://www.youtube.com"
+            },
+            {
+                "icon": "_favicon",
+                "url": "https://www.facebook.com"
+            },
+            {
+                "icon": "_favicon",
+                "url": "https://www.netflix.com"
+            }
+        ],
+        "visible": true
+    },
+    "focus": false,
+    "locale": "en",
+    "timeZone": null,
+    "widget/1CpouzXZANxh": null,
+    "widget/3DunYeCC-Pa_": null,
+    "widget/D35dEJYyIv6U": null,
+    "widget/MeeYKj9XlKH5": null,
+    "widget/N5l2CrlAVqJY": null,
+    "widget/Qu_rgpZO9tHP": null,
+    "widget/U71Tl7CVKvXy": {
+        "display": {
+            "position": "middleCentre"
+        },
+        "id": "U71Tl7CVKvXy",
+        "key": "widget/greeting",
+        "order": 0
+    },
+    "widget/b-GVh2u8AoU3": null,
+    "widget/default-greeting": null,
+    "widget/default-time": {
+        "display": {
+            "position": "middleCentre"
+        },
+        "id": "default-time",
+        "key": "widget/time",
+        "order": 1
+    },
+    "widget/jQQjfTIqWENC": null,
+    "widget/kZRYMiIUGbj0": null,
+    "widget/o-4_slmiEHeH": {
+        "display": {
+            "position": "middleCentre"
+        },
+        "id": "o-4_slmiEHeH",
+        "key": "widget/weather",
+        "order": 2
+    },
+    "widget/szEEcyesJHRf": {
+        "display": {
+            "fontSize": 22,
+            "position": "middleRight"
+        },
+        "id": "szEEcyesJHRf",
+        "key": "widget/links",
+        "order": 3
+    },
+    "widget/ucR52cwi4sXH": null,
+    "widget/z1cdKPUFWCn6": null,
+    "version": 3
+}
